@@ -1,0 +1,70 @@
+{
+    "network": {
+        "name": "mainnet",
+        "chainId": 1,
+        "rpcEndpoints": [
+            "https://mainnet.infura.io/v3/${INFURA_PROJECT_ID}",
+            "https://eth-mainnet.alchemyapi.io/v2/${ALCHEMY_API_KEY}"
+        ],
+        "wsEndpoints": [
+            "wss://mainnet.infura.io/ws/v3/${INFURA_PROJECT_ID}"
+        ],
+        "blockExplorerUrl": "https://etherscan.io"
+    },
+    "contracts": {
+        "deploymentAddress": null,
+        "proxyAddress": null,
+        "implementation": {
+            "address": null,
+            "version": "1.0.0"
+        }
+    },
+    "gas": {
+        "strategy": "aggressive",
+        "maxFeePerGas": "150000000000",
+        "maxPriorityFeePerGas": "2000000000",
+        "gasLimit": {
+            "default": "2000000",
+            "deployment": "4500000"
+        },
+        "priceOracle": {
+            "updateInterval": 15,
+            "sources": [
+                "ethgasstation",
+                "etherchain",
+                "etherscan"
+            ]
+        }
+    },
+    "security": {
+        "maxRetries": 3,
+        "timeout": 30000,
+        "rateLimit": {
+            "maxRequests": 100,
+            "timeWindow": 60000
+        },
+        "encryption": {
+            "algorithm": "aes-256-gcm",
+            "keyDerivation": "pbkdf2"
+        }
+    },
+    "monitoring": {
+        "enabled": true,
+        "heartbeatInterval": 30,
+        "alertThresholds": {
+            "gasPrice": "200000000000",
+            "blockTime": 15,
+            "pendingTxCount": 100
+        },
+        "metrics": {
+            "collection": true,
+            "retention": "30d"
+        }
+    },
+    "cache": {
+        "enabled": true,
+        "engine": "redis",
+        "ttl": 3600,
+        "maxSize": "1GB"
+    }
+}
