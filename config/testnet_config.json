@@ -1,0 +1,69 @@
+{
+    "network": {
+        "name": "goerli",
+        "chainId": 5,
+        "rpcEndpoints": [
+            "https://goerli.infura.io/v3/${INFURA_PROJECT_ID}",
+            "https://eth-goerli.alchemyapi.io/v2/${ALCHEMY_API_KEY}"
+        ],
+        "wsEndpoints": [
+            "wss://goerli.infura.io/ws/v3/${INFURA_PROJECT_ID}"
+        ],
+        "blockExplorerUrl": "https://goerli.etherscan.io"
+    },
+    "contracts": {
+        "deploymentAddress": null,
+        "proxyAddress": null,
+        "implementation": {
+            "address": null,
+            "version": "1.0.0"
+        }
+    },
+    "gas": {
+        "strategy": "standard",
+        "maxFeePerGas": "50000000000",
+        "maxPriorityFeePerGas": "1500000000",
+        "gasLimit": {
+            "default": "2000000",
+            "deployment": "4500000"
+        },
+        "priceOracle": {
+            "updateInterval": 30,
+            "sources": [
+                "ethgasstation",
+                "etherscan"
+            ]
+        }
+    },
+    "security": {
+        "maxRetries": 5,
+        "timeout": 60000,
+        " rateLimit": {
+            "maxRequests": 200,
+            "timeWindow": 120000
+        },
+        "encryption": {
+            "algorithm": "aes-256-gcm",
+            "keyDerivation": "pbkdf2"
+        }
+    },
+    "monitoring": {
+        "enabled": true,
+        "heartbeatInterval": 60,
+        "alertThresholds": {
+            "gasPrice": "50000000000",
+            "blockTime": 30,
+            "pendingTxCount": 200
+        },
+        "metrics": {
+            "collection": true,
+            "retention": "60d"
+        }
+    },
+    "cache": {
+        "enabled": true,
+        "engine": "redis",
+        "ttl": 7200,
+        "maxSize": "5GB"
+    }
+}
