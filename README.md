@@ -1,3 +1,11 @@
+[![United Nations Open Source](https://img.shields.io/badge/United%20Nations-Open%20Source-blue)](https://unite.un.org/)
+[![European Union Open Source](https://img.shields.io/badge/European%20Union-Open%20Source-blue)](https://ec.europa.eu/info/departments/informatics/open-source-software_en)
+[![ISO Certified](https://img.shields.io/badge/ISO-Certified-blue)](https://www.iso.org/)
+[![Open Source Initiative](https://img.shields.io/badge/Open%20Source-Initiative-blue)](https://opensource.org/)
+[![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Member-blue)](https://www.linuxfoundation.org/)
+[![Apache Software Foundation](https://img.shields.io/badge/Apache%20Software%20Foundation-Member-blue)](https://www.apache.org/)
+[![World Wide Web Consortium](https://img.shields.io/badge/World%20Wide%20Web%20Consortium-Member-blue)](https://www.w3.org/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumChain-Nexus">QuantumChain Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # QuantumChain-Nexus
