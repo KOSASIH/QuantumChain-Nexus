@@ -1,2 +1,22 @@
-# Google App Engine generated folder
-appengine-generated/
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore node_modules and other package manager directories
+node_modules/
+package-lock.json
+
+# Ignore log files
+*.log
+
+# Ignore build and dist directories
+build/
+dist/
+
+# Ignore other irrelevant files
+*.env
+*.tmp
