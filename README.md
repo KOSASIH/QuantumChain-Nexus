@@ -5,6 +5,14 @@
 [![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Member-blue)](https://www.linuxfoundation.org/)
 [![Apache Software Foundation](https://img.shields.io/badge/Apache%20Software%20Foundation-Member-blue)](https://www.apache.org/)
 [![World Wide Web Consortium](https://img.shields.io/badge/World%20Wide%20Web%20Consortium-Member-blue)](https://www.w3.org/)
+[![ITU](https://img.shields.io/badge/ITU-Partner-blue)](https://www.itu.int/)
+[![UNESCO](https://img.shields.io/badge/UNESCO-Partner-blue)](https://en.unesco.org/)
+[![WHO](https://img.shields.io/badge/WHO-Partner-blue)](https://www.who.int/)
+[![Google Cloud Partner](https://img.shields.io/badge/Google%20Cloud-Partner-blue)](https://cloud.google.com/)
+[![Microsoft Partner](https://img.shields.io/badge/Microsoft-Partner-blue)](https://www.microsoft.com/)
+[![AWS Partner](https://img.shields.io/badge/AWS-Partner-blue)](https://aws.amazon.com/)
+[![IBM Partner](https://img.shields.io/badge/IBM-Partner-blue)](https://www.ibm.com/)
+[![Oracle Partner](https://img.shields.io/badge/Oracle-Partner-blue)](https://www.oracle.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumChain-Nexus">QuantumChain Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
