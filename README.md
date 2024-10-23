@@ -27,7 +27,7 @@ To get started with QuantumChain-Nexus, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/KOSASIH/QuantumChain-Nexus.git
+   1. git clone https://github.com/KOSASIH/QuantumChain-Nexus.git
    ```
 
 2. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies.
