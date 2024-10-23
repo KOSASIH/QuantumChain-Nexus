@@ -1,2 +1,2 @@
 # QuantumChain-Nexus
-QuantumChain-Nexus is the official repository for the QuantumChain Nexus project, a revolutionary blockchain ecosystem that integrates quantum-resistant cryptography, dynamic consensus mechanisms, and advanced smart contracts.
+QuantumChain-Nexus is the official repository for the QuantumChain Nexus project, a revolutionary blockchain ecosystem that integrates quantum-resistant cryptography, dynamic consensus mechanisms, and advanced smart contracts. This repository serves as the development hub for contributors, featuring the core protocol, smart contract templates, interoperability tools, and AI-driven analytics modules. Join us in building a secure, scalable, and sustainable future for decentralized finance and digital assets.
